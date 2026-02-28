@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Sayantan
-
 # 💫 About Me:
-📊 Data Analyst @ NielsenIQ<br>💻 SQL, Python, PySpark, Azure, Power BI,<br>Advanced Excel<br>💹 Helping businesses 💰 finding useful insights<br>from huge messy data and save hours <br>through automations
+📊 Data Analyst @ NielsenIQ<br>💻 SQL, Python, PySpark, Azure, Power BI, Advanced Excel<br>💹 Helping businesses 💰 finding useful insights from huge<br>messy data and save hours through automations
 
 
 ## 🌐 Socials:
@@ -13,8 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sntn09&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sntn09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sntn09&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Sntn09&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
