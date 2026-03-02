@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sayantan
 # 💫 About Me:
-📊 Data Analyst @ NielsenIQ<br>💻 SQL, Python, PySpark, Azure, Power BI, Advanced Excel<br>💹 Helping businesses 💰 finding useful insights from huge<br>messy data and save hours through automations
+📊 Data Analyst @ NielsenIQ<br>💻 SQL, Python, PySpark, Azure, Power BI, Advanced Excel<br>💹 Helping businesses finding useful insights from huge<br>messy data and save hours through automations
 
 
 ## 🌐 Socials:
